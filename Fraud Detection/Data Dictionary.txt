@@ -1,4 +1,4 @@
-**The dataset is taken from Kaggle. One can download it from [Link](https://www.kaggle.com/datasets/vardhansiramdasu/fraudulent-transactions-prediction?select=Fraud.csv)**
+The dataset is taken from Kaggle. One can download it from [Link](https://www.kaggle.com/datasets/vardhansiramdasu/fraudulent-transactions-prediction?select=Fraud.csv)
 
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 
